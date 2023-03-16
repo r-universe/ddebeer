@@ -1,0 +1,10 @@
+[
+  {
+    "package": "permimp",
+    "oncran": true
+  },
+  {
+    "package": "scDIFtest",
+    "oncran": true
+  }
+]
