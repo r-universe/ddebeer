@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "permimp"]
 	path = permimp
 	url = https://github.com/ddebeer/permimp
-	shallow = true
-	registered = true
 [submodule "scDIFtest"]
 	path = scDIFtest
 	url = https://github.com/ddebeer/scdiftest
-	shallow = true
-	registered = true
